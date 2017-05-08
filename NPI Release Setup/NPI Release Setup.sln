@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "NPI Release Setup.vdproj", "{D7B7829C-640C-44D1-BB07-A7DD0C1520C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B7829C-640C-44D1-BB07-A7DD0C1520C1}.Debug|Default.ActiveCfg = Release
+		{D7B7829C-640C-44D1-BB07-A7DD0C1520C1}.Debug|Default.Build.0 = Release
+		{D7B7829C-640C-44D1-BB07-A7DD0C1520C1}.Release|Default.ActiveCfg = Release
+		{D7B7829C-640C-44D1-BB07-A7DD0C1520C1}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
